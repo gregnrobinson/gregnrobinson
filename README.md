@@ -27,4 +27,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api/pin/?username=gregnrobinson&repo=github-readme-stats" />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api?username=gregnrobinson)](https://github.com/gregnrobinson/github-readme-stats)
+[![Greg's GitHub stats](https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api?username=gregnrobinson)](https://github.com/gregnrobinson/github-readme-stats)
