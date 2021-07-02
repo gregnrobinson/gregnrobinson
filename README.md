@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/gregnrobinson/convoychat">
   <img align="center" src="https://github-readme-stats-gold-omega.vercel.app/api/pin/?username=gregnrobinson&repo=convoychat" />
 </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats-gold-omega.vercel.app/api?username=gregnrobinson)](https://github.com/gregnrobinson/github-readme-stats)
