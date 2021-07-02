@@ -21,9 +21,5 @@ Here are some ideas to get you started:
 <link property="schema:url"    href="https://pisite.gregrobinson.ca" />
 <meta property="schema:url" content="/" />
 
-<body>
-   <a href="https://pisite.gregrobinson.ca">
-     <img alt="Qries" src="https://storage.googleapis.com/pisite/og.png"
-     width=350" height="200">
-   </a>
-</body>
+<a href="https://pisite.gregrobinson.ca">
+<img alt="Qries" src="https://storage.googleapis.com/pisite/og.png" width=350" height="200"></a>
