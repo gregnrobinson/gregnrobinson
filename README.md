@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <link property="schema:url"    href="https://pisite.gregrobinson.ca" />
 <meta property="schema:url" content="/" />
 
-   <body>
-      The following image works as a link:<br>
-      <a href="https://www.qries.com/">
-         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
-         width=150" height="70">
-      </a>
-   </body>
+<body>
+   The following image works as a link:<br>
+   <a href="https://www.qries.com/">
+     <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+     width=150" height="70">
+   </a>
+</body>
