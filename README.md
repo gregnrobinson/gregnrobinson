@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 
 [![My wakatime stats](https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api/wakatime?username=gregnrobinson)](https://github.com/gregnrobinson/github-readme-stats)
 
+<a href="https://github.com/gregnrobinsno/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api/top-langs/?username=gregnrobinson&layout=compact" />
+</a>
+<a href="https://github.com/gregnrobinsno/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api?username=gregnrobinson" />
+</a>
+
 ### Current Projects
 - <a href="https://pisite.gregrobinson.ca">Raspberry Pi Kubernetes Cluster</a>
 
