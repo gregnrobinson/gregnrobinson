@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/gregnrobinsno/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api?username=gregnrobinson&count_private=true&theme=dark" />
+  <center><img height="200" align="center" src="https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api?username=gregnrobinson&count_private=true&theme=dark" /></center>
 </a>
 <a href="https://github.com/gregnrobinsno/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api/top-langs/?username=gregnrobinson&langs_count=10&layout=compact&theme=dark" />
