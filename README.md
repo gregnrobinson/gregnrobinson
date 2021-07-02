@@ -18,11 +18,3 @@ Here are some ideas to get you started:
 ### Now Playing 🎧
 
 [<img src="https://spotify-now-playing-cyan-seven.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/gregnrobinson-ca)
-
-
-### Checkout My Latest Project
-
-<head>
-  <title>K8s Pi Cluster</title>
-  <meta property="og:image" content="https://external.fybz2-2.fna.fbcdn.net/safe_image.php?d=AQH5aUvynJ-ZNRC1&w=300&h=157&url=https%3A%2F%2Fpisite.gregrobinson.ca%2Fimages%2Fog.png&cfs=1&ccb=3-5&_nc_hash=AQEEIoGWS6C3D2nf" />
-</head>
