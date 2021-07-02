@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api?username=gregnrobinson&hide=issues&count_private=true" />
 </a>
 <a href="https://github.com/gregnrobinsno/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api/top-langs/?username=gregnrobinson&layout=compact" />
+  <img align="center" src="https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api/top-langs/?username=gregnrobinson&langs_count=10&layout=compact" />
 </a>
 
 <!--
