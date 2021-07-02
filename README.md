@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <body>
    <a href="https://pisite.gregrobinson.ca">
-     <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+     <img alt="Qries" src="https://storage.googleapis.com/pisite/og.png"
      width=150" height="70">
    </a>
 </body>
