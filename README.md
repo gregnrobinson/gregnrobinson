@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 ### Now Playing 🎧
 
 [<img src="https://spotify-now-playing-cyan-seven.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400" />](https://open.spotify.com/user/gregnrobinson-ca)
+
+
+<link property="schema:url"    href="https://pisite.gregrobinson.ca" />
+<meta property="schema:url" content="/" />
