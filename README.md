@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 <body>
    <a href="https://pisite.gregrobinson.ca">
      <img alt="Qries" src="https://storage.googleapis.com/pisite/og.png"
-     width=400" height="250">
+     width=350" height="200">
    </a>
 </body>
