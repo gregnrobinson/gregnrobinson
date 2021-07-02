@@ -20,6 +20,9 @@ Here are some ideas to get you started:
   <img height="200" align="center" src="https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api/top-langs/?username=gregnrobinson&langs_count=10&layout=compact&theme=dark&hide=html,css,scss" />
 </a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Current Projects
 - <a href="https://pisite.gregrobinson.ca">Raspberry Pi Kubernetes Cluster</a>
 
