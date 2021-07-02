@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 [<img src="https://spotify-now-playing-cyan-seven.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400" />](https://open.spotify.com/user/gregnrobinson-ca)
 
-
-<link property="schema:url"    href="https://pisite.gregrobinson.ca" />
-<meta property="schema:url" content="/" />
+### Checkout My Latest Project Below
 
 <a href="https://pisite.gregrobinson.ca">
-<img alt="Qries" src="https://storage.googleapis.com/pisite/og.png" width=350" height="200"></a>
+<img alt="Qries" src="https://storage.googleapis.com/pisite/og.png" width=300" height="200"></a>
