@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ### Checkout My Latest Project Below
 
 <a href="https://pisite.gregrobinson.ca">
-<img alt="Qries" src="https://storage.googleapis.com/pisite/og.png" width=300" height="200"></a>
+<img alt="Qries" src="https://storage.googleapis.com/pisite/og.png" width=300" height="150"></a>
