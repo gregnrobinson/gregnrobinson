@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 
 [<img src="https://spotify-now-playing-cyan-seven.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400" />](https://open.spotify.com/user/gregnrobinson-ca)
 
-### Checkout My Latest Project Below
-
-<a href="https://pisite.gregrobinson.ca">
-<img alt="Qries" src="https://storage.googleapis.com/pisite/og.png" width=300" height="150"></a>
+### Current Projects
+- <a href="https://pisite.gregrobinson.ca">Raspberry Pi Kubernetes Cluster</a>
