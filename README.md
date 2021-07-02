@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api/top-langs/?username=gregnrobinson&layout=compact)](https://github.com/gregnrobinson/github-readme-stats)
 
+[![Greg's wakatime stats](https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api/wakatime?username=gregnrobinson)](https://github.com/gregnrobinson/github-readme-stats)
 
 ### Current Projects
 - <a href="https://pisite.gregrobinson.ca">Raspberry Pi Kubernetes Cluster</a>
