@@ -20,11 +20,4 @@ Here are some ideas to get you started:
 ### Current Projects
 - <a href="https://pisite.gregrobinson.ca">Raspberry Pi Kubernetes Cluster</a>
 
-#<a href="https://github.com/gregnrobinson/github-readme-stats">
-#  <img align="center" src="https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api/pin/?username=gregnrobinson&repo=github-readme-stats" />
-#</a>
-#<a href="https://github.com/gregnrobinson/convoychat">
-#  <img align="center" src="https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api/pin/?username=gregnrobinson&repo=github-readme-stats" />
-#</a>
-
 [![Greg's GitHub stats](https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api?username=gregnrobinson)](https://github.com/gregnrobinson/github-readme-stats)
