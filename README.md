@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Personal Projects
+- <a href="https://gregrobinson.ca">Raspberry Pi Kubernetes Cluster</a>
+
+### Now Playing 🎧
+
+[<img src="https://spotify-now-playing-cyan-seven.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/gregnrobinson-ca)
 
 <!--
 <a href="https://github.com/gregnrobinsno/github-readme-stats">
@@ -29,9 +35,4 @@ No Activity tracked this Week
 
 
 
-### Personal Projects
-- <a href="https://gregrobinson.ca">Raspberry Pi Kubernetes Cluster</a>
 
-### Now Playing 🎧
-
-[<img src="https://spotify-now-playing-cyan-seven.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/gregnrobinson-ca)
