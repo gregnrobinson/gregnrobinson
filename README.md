@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
 ```text
 Week: 26 June, 2021 - 02 July, 2021
 
