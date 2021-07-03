@@ -23,18 +23,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 867 Contributions in the Year 2021
- > 
-> 📦 307.5 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 17 Private Repositories  
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -66,6 +54,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
+
 
 
  Last Updated on 03/07/2021
