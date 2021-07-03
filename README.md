@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <!--
 <a href="https://github.com/gregnrobinsno/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api?username=gregnrobinson&count_private=true&theme=dark&show_icons=true" />
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api/wakatime?username=gregnrobinson)](https://github.com/gregnrobinson/github-readme-stats)
 -->
+## This week consists of...
 
 <!--START_SECTION:waka-->
 ```text
