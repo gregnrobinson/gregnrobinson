@@ -45,7 +45,6 @@ Mac                      3 hrs 44 mins       ███████████�
 ```
 
 
- Last Updated on 03/07/2021
 <!--END_SECTION:waka-->
 
 ### Personal Projects
