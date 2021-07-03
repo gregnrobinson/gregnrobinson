@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 June, 2021 - 02 July, 2021
+From: 26 June, 2021 - 02 July, 2021
 
 💬 Programming Languages: 
 Go                       1 hr 52 mins        ████████████░░░░░░░░░░░░░   49.81% 
