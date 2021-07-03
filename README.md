@@ -31,7 +31,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 ### Current Projects
-- <a href="https://pisite.gregrobinson.ca">Raspberry Pi Kubernetes Cluster</a>
+- <a href="https://gregrobinson.ca">Raspberry Pi Kubernetes Cluster</a>
 
 ### Now Playing 🎧
 
