@@ -1,5 +1,5 @@
 
-name: Waka Readme
+name: Waka Readme v2
 
 on:
   workflow_dispatch:
