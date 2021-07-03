@@ -4,7 +4,7 @@ name: Waka Readme v2
 on:
   workflow_dispatch:
   schedule:
-    # Runs every hour
+    # RUNS DAILY AT MIDNIGHT
     - cron: '0 0 * * *'
 
 jobs:
