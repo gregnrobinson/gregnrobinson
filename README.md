@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Toronto
+Week: 26 June, 2021 - 02 July, 2021
 
-Week: 26 June, 2021 - 02 July, 2021💬 Programming Languages: 
+💬 Programming Languages: 
 Go                       1 hr 52 mins        ████████████░░░░░░░░░░░░░   49.81% 
 Other                    40 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.21% 
 JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51% 
