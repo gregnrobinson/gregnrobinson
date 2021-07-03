@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 </a>
 -->
 
-
-[![Greg's Weekly Stats](https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api/wakatime?username=gregnrobinson)](https://github.com/gregnrobinson/github-readme-stats)
-
 ### This week consists of...
 
 <!--START_SECTION:waka-->
