@@ -13,13 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Personal Projects
-- <a href="https://gregrobinson.ca">Raspberry Pi Kubernetes Cluster</a>
-
-### Now Playing 🎧
-
-[<img src="https://spotify-now-playing-cyan-seven.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/gregnrobinson-ca)
-
 <!--
 <a href="https://github.com/gregnrobinsno/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats-9qgfud7uc-gregnrobinson.vercel.app/api?username=gregnrobinson&count_private=true&theme=dark&show_icons=true" />
@@ -75,9 +68,15 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ```
 
 
-
  Last Updated on 03/07/2021
 <!--END_SECTION:waka-->
+
+### Personal Projects
+- <a href="https://gregrobinson.ca">Raspberry Pi Kubernetes Cluster</a>
+
+### Now Playing 🎧
+
+[<img src="https://spotify-now-playing-cyan-seven.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/gregnrobinson-ca)
 
 
 
