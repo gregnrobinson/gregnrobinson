@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ```text
 ⌚︎ Time Zone: America/Toronto
 
-💬 Programming Languages: 
+Week: 26 June, 2021 - 02 July, 2021💬 Programming Languages: 
 Go                       1 hr 52 mins        ████████████░░░░░░░░░░░░░   49.81% 
 Other                    40 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.21% 
 JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51% 
