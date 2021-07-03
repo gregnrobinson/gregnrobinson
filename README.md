@@ -35,7 +35,7 @@ Markdown   12 mins         █▒░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-### Current Projects
+### Personal Projects
 - <a href="https://gregrobinson.ca">Raspberry Pi Kubernetes Cluster</a>
 
 ### Now Playing 🎧
