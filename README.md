@@ -49,9 +49,8 @@ Mac                      13 hrs 17 mins      ███████████�
 - <a href="https://gregrobinson.ca">Raspberry Pi Kubernetes Cluster</a>
 
 ### Now Playing 🎧
-
+```
 [<img src="https://spotify-now-playing-cyan-seven.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/gregnrobinson-ca)
-
-
+```
 
 
