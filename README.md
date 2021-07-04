@@ -21,7 +21,7 @@ Mac                      13 hrs 17 mins      ███████████�
 
 <!--END_SECTION:waka-->
 
-`# Personal Projects`
+`Personal Projects`
 - <a href="https://gregrobinson.ca">Raspberry Pi Kubernetes Cluster</a>
 
 `Now Playing 🎧`
