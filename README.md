@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-From: 30 June, 2021 - 06 July, 2021
+From: 01 July, 2021 - 07 July, 2021
 
 💬 Programming Languages: 
 Go                       12 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   33.93% 
