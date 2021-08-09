@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-From: 01 August, 2021 - 07 August, 2021
+From: 02 August, 2021 - 08 August, 2021
 
 💬 Programming Languages: 
 YAML                     2 hrs 4 mins        ███████████████████████░░   94.09% 
