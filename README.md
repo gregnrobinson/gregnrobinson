@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-From: 08 August, 2021 - 14 August, 2021
+From: 09 August, 2021 - 15 August, 2021
 
 💬 Programming Languages: 
 Python                   16 mins             █████████████░░░░░░░░░░░░   54.44% 
