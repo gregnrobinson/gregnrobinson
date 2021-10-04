@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-From: 26 September, 2021 - 02 October, 2021
+From: 27 September, 2021 - 03 October, 2021
 
 💬 Programming Languages: 
 Python                   9 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   31.4% 
