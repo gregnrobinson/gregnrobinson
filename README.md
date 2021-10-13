@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 ```text
-From: 05 October, 2021 - 11 October, 2021
+From: 06 October, 2021 - 12 October, 2021
 
 💬 Programming Languages: 
-HTML                     0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
