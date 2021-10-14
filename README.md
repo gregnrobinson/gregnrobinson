@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-From: 06 October, 2021 - 12 October, 2021
+From: 07 October, 2021 - 13 October, 2021
 
 💬 Programming Languages: 
 No Activity Tracked This Week
