@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-From: 09 October, 2021 - 15 October, 2021
+From: 10 October, 2021 - 16 October, 2021
 
 💬 Programming Languages: 
 HTML                     10 mins             █████████████████████████   100.0% 
