@@ -1,5 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/37718f76-572e-4513-b2c5-41c4d93d287a.svg)](https://wakatime.com/@37718f76-572e-4513-b2c5-41c4d93d287a)
-
 <!--START_SECTION:waka-->
 ```text
 From: 13 October, 2021 - 19 October, 2021
@@ -21,6 +19,8 @@ Mac                      5 hrs 13 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
+
+[![wakatime](https://wakatime.com/badge/user/37718f76-572e-4513-b2c5-41c4d93d287a.svg)](https://wakatime.com/@37718f76-572e-4513-b2c5-41c4d93d287a)
 
 `Now Playing 🎧`
 
