@@ -1,5 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/37718f76-572e-4513-b2c5-41c4d93d287a.svg)](https://wakatime.com/@37718f76-572e-4513-b2c5-41c4d93d287a)
-
 <!--START_SECTION:waka-->
 ```text
 From: 18 October, 2021 - 24 October, 2021
@@ -26,6 +24,8 @@ Linux                    2 hrs 23 mins       ██░░░░░░░░░�
 `Now Playing 🎧`
 
 [<img src="https://spotify-now-playing-cyan-seven.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="300" />](https://open.spotify.com/user/gregnrobinson-ca)
+
+[![wakatime](https://wakatime.com/badge/user/37718f76-572e-4513-b2c5-41c4d93d287a.svg)](https://wakatime.com/@37718f76-572e-4513-b2c5-41c4d93d287a)
 
 
 
