@@ -22,7 +22,7 @@ Mac                      20 hrs 21 mins      ███████████�
 
 <figure><embed src="https://wakatime.com/share/@gregnrobinson/001c6d31-0c95-44f9-b6d7-9fd705354f62.svg"></embed></figure>
 
-[<img src="https://spotify-now-playing-cyan-seven.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="300" />](https://open.spotify.com/user/gregnrobinson-ca)
+[<img src="https://spotify-now-playing-cyan-seven.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="250" />](https://open.spotify.com/user/gregnrobinson-ca)
 
 [![wakatime](https://wakatime.com/badge/user/37718f76-572e-4513-b2c5-41c4d93d287a.svg)](https://wakatime.com/@37718f76-572e-4513-b2c5-41c4d93d287a)
 
