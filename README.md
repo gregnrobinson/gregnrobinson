@@ -14,11 +14,10 @@ VS Code                  33 hrs 59 mins      ███████████�
 
 💻 Operating System: 
 Mac                      33 hrs 59 mins      █████████████████████████   100.0%
-
 ```
+<!--END_SECTION:waka-->
 
-
-<!--END_SECTION:waka
+<figure><embed src="https://wakatime.com/share/@gregnrobinson/001c6d31-0c95-44f9-b6d7-9fd705354f62.svg"></embed></figure>
 
 `Now Playing 🎧`
 
