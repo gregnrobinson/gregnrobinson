@@ -18,8 +18,7 @@ Linux                    1 min               ░░░░░░░░░░░�
 
 ```
 
-
- Last Updated on 22/11/2021
+22/11/2021
 <!--END_SECTION:waka-->
 
 <figure><embed src="https://wakatime.com/share/@gregnrobinson/001c6d31-0c95-44f9-b6d7-9fd705354f62.svg"></embed></figure>
