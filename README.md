@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-From: 25 December, 2021 - 31 December, 2021
+From: 26 December, 2021 - 01 January, 2022
 
 💬 Programming Languages: 
 Python                   11 mins             ███████████████████████░░   94.69% 
