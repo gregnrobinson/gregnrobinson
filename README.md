@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-From: 31 December, 2021 - 06 January, 2022
+From: 01 January, 2022 - 07 January, 2022
 
 💬 Programming Languages: 
 Markdown                 50 mins             ████████████░░░░░░░░░░░░░   50.8% 
