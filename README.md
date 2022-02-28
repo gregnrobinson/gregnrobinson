@@ -1,16 +1,15 @@
 <!--START_SECTION:waka-->
 ```text
-From: 20 February, 2022 - 26 February, 2022
+From: 21 February, 2022 - 27 February, 2022
 
 💬 Programming Languages: 
-YAML                     8 mins              ████████████████████████░   98.13% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
