@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-From: 26 February, 2022 - 04 March, 2022
+From: 27 February, 2022 - 05 March, 2022
 
 💬 Programming Languages: 
 HTML                     16 mins             █████████████████████░░░░   83.95% 
