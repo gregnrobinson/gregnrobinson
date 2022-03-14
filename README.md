@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-From: 06 March, 2022 - 12 March, 2022
+From: 07 March, 2022 - 13 March, 2022
 
 💬 Programming Languages: 
 Bash                     2 hrs 23 mins       ████████████░░░░░░░░░░░░░   51.35% 
