@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-From: 01 April, 2022 - 07 April, 2022
+From: 02 April, 2022 - 08 April, 2022
 
 💬 Programming Languages: 
 YAML                     16 hrs 7 mins       ███████████████████░░░░░░   76.1% 
