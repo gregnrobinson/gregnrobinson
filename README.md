@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-From: 16 April, 2022 - 22 April, 2022
+From: 17 April, 2022 - 23 April, 2022
 
 💬 Programming Languages: 
 Python                   36 mins             █████████████░░░░░░░░░░░░   54.69% 
