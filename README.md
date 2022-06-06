@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-From: 29 May, 2022 - 04 June, 2022
+From: 30 May, 2022 - 05 June, 2022
 
 💬 Programming Languages: 
 Markdown                 11 mins             ██████████████░░░░░░░░░░░   58.08% 
