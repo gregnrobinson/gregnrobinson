@@ -16,7 +16,7 @@ Mac                      0 secs              ░░░░░░░░░░░�
 -->
 
 <!--END_SECTION:waka-->
-<a width="250" height="250" href="https://wakatime.com"><img src="https://wakatime.com/share/@gregnrobinson/845e95ab-ffaf-4351-be12-97e69850ad6e.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@gregnrobinson/845e95ab-ffaf-4351-be12-97e69850ad6e.png&w=300&h=300" /></a>
 
 [<img src="https://spotify-playing-gregnrobinson.vercel.app/api/spotify/?background_color=transparent&border_color=transparent" alt="Spotify Now Playing" width="250" />](https://open.spotify.com/user/gregnrobinson-ca)
 
