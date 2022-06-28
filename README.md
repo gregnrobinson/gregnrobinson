@@ -19,9 +19,11 @@ Mac                      0 secs              ░░░░░░░░░░░�
 ### Coding Activity All Time
 <a href="https://wakatime.com"><img width="500" height="320" src="https://wakatime.com/share/@gregnrobinson/845e95ab-ffaf-4351-be12-97e69850ad6e.png" /></a>
 
+[![wakatime](https://wakatime.com/badge/user/37718f76-572e-4513-b2c5-41c4d93d287a.svg)](https://wakatime.com/@37718f76-572e-4513-b2c5-41c4d93d287a)
+
 [<img src="https://spotify-playing-gregnrobinson.vercel.app/api/spotify/?background_color=transparent&border_color=transparent" alt="Spotify Now Playing" width="250" />](https://open.spotify.com/user/gregnrobinson-ca)
 
-[![wakatime](https://wakatime.com/badge/user/37718f76-572e-4513-b2c5-41c4d93d287a.svg)](https://wakatime.com/@37718f76-572e-4513-b2c5-41c4d93d287a)
+
 
 
 
