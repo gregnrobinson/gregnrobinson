@@ -1,4 +1,5 @@
-<!--START_SECTION:waka-->
+<!--
+<!--START_SECTION:waka
 ```text
 From: 21 June, 2022 - 27 June, 2022
 
@@ -12,7 +13,7 @@ VS Code                  0 secs              ░░░░░░░░░░░�
 Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
-
+-->
 
 <!--END_SECTION:waka-->
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@gregnrobinson/07b0b638-6320-40df-960c-03301f8a1c9a.png" /></a>
