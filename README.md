@@ -1,16 +1,15 @@
 <!--START_SECTION:waka-->
 ```text
-From: 09 July, 2022 - 15 July, 2022
+From: 10 July, 2022 - 16 July, 2022
 
 💬 Programming Languages: 
-YAML                     0 secs              ████████████████████████░   97.92% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
