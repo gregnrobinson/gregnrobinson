@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-From: 30 July, 2022 - 05 August, 2022
+From: 31 July, 2022 - 06 August, 2022
 
 💬 Programming Languages: 
 No Activity Tracked This Week
